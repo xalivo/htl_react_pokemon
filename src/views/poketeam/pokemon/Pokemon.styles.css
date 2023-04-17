@@ -1,0 +1,14 @@
+td, th {
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+}
+
+tr {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
